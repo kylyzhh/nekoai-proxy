@@ -3,7 +3,7 @@
   "rewrites": [
     {
       "source": "/v1/(.*)",
-      "destination": "https://oneai.evanora.top/v1/$1"
+      "destination": "https://openkey.cloud/v1/$1"
     }
   ]
 }
