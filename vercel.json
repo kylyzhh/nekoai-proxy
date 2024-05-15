@@ -2,7 +2,7 @@
   "regions": ["hnd1"],
   "rewrites": [
     {
-      "source": "/(.*)",
+      "source": "(.*)",
       "destination": "https://openkey.cloud/$1"
     }
   ]
