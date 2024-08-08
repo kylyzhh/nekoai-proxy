@@ -8,6 +8,10 @@
     {
       "source": "/v1/:match*",
       "destination": "https://openkey.cloud/v1/:match*"
-    }
+    },
+    {
+      "source": "/models/:match*",
+      "destination": "https://openkey.cloud/v1/models/:match*"
+    },
   ]
 }
