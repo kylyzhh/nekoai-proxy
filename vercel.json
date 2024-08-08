@@ -4,9 +4,9 @@
     {
       "source": "/:match*",
       "destination": "https://openkey.cloud/:match*"
-    }
+    },
     {
-      "source": "/:match*",
+      "source": "/v1/:match*",
       "destination": "https://openkey.cloud/v1/:match*"
     }
   ]
