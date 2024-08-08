@@ -12,6 +12,10 @@
     {
       "source": "/models/:match*",
       "destination": "https://openkey.cloud/v1/models/:match*"
-    }
+    },
+    {
+      "source": "/models:match*",
+      "destination": "https://openkey.cloud/v1/models"
+    },
   ]
 }
